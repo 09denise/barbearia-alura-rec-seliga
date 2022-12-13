@@ -3,4 +3,11 @@ body {
  banner {
    wifth:100%
 }
+.principal{
+  bockground: #cccccc;
+ padding: 30px;
+}
+.titulo-principal{
+ padding-left:20px;
+}
 
